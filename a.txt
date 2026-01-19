@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 fifth line
-=======
-first line
->>>>>>> a75aeaab0dd9d23c755f1e6eb13e6fa1ba45199f
 hello from feature
